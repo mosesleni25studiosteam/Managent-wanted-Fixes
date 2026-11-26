@@ -1,1 +1,34 @@
-fnafmw.cmd
+{
+  "endpoint": "/repos/mosesleni25studiosteam/Managent-wanted-Fixes/contents",
+  "page": null,
+  "perPage": 100,
+  "repo": "mosesleni25studiosteam/Managent-wanted-Fixes",
+  "task": "Inspect repository files and structure",
+  "userQuery": "List the files in the repository so I can modify or add the FNAFMW image implementation."
+}
+
+{
+  "endpoint": "/repos/mosesleni25studiosteam/Managent-wanted-Fixes",
+  "page": null,
+  "perPage": null,
+  "repo": "mosesleni25studiosteam/Managent-wanted-Fixes",
+  "task": "Confirm repository details and default branch",
+  "userQuery": "Confirm the repository details and default branch before making changes."
+}
+
+  "endpoint": "/repos/mosesleni25studiosteam/Managent-wanted-Fixes/contents/fnafmw.cmd",
+  "page": null,
+  "perPage": null,
+  "repo": "mosesleni25studiosteam/Managent-wanted-Fixes",
+  "task": "Get the current fnafmw.cmd file and BlobSha before updating it",
+  "userQuery": "Retrieve fnafmw.cmd metadata before changing the launcher."
+
+{
+  "endpoint": "/repos/mosesleni25studiosteam/Managent-wanted-Fixes/contents/fnafmw.exe",
+  "page": null,
+  "perPage": null,
+  "repo": "mosesleni25studiosteam/Managent-wanted-Fixes",
+  "task": "Get the current fnafmw.exe launcher placeholder and BlobSha",
+  "userQuery": "Retrieve fnafmw.exe metadata before correcting the launcher."
+}
+
